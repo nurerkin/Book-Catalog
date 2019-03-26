@@ -1,0 +1,54 @@
+well-formed XML
+<?xml version="1.0" encoding="utf-8"?>
+<CATALOG>
+  <BOOK>
+    <TITLE> Yüzyıllık Yalnızlık</TITLE>
+    <AUTHOR> Gabriel Garcia Marquez </AUTHOR>
+    <PUBLISHER> Can Yayınları </PUBLISHER>
+    <ISBN> 9789750719363</ISBN>
+    <PRICE> 27, 38 </PRICE>
+    <YEAR> 2016 </YEAR>
+    <URL> https://www.pandora.com.tr/kitap/yuzyillik-yalnizlik/329325 </URL>
+    </BOOK>
+
+  <BOOK>
+    <TITLE> Saatleri Ayarlama Enstitüsü</TITLE>
+    <AUTHOR> Ahmet Hamdi Tanpınar</AUTHOR>
+    <PUBLISHER> Dergâh Yayınları </PUBLISHER>
+    <ISBN> 9789759955762 </ISBN>
+    <PRICE> 24, 63 </PRICE>
+    <YEAR> 2015 </YEAR>
+    <URL> https://www.babil.com/saatleri-ayarlama-enstitusu-kitabi-ahmet-hamdi-tanpinar </URL>
+    </BOOK>
+
+ <BOOK>
+    <TITLE> Analitik Psikoloji </TITLE>
+    <AUTHOR> Carl Gustav Jung </AUTHOR>
+    <PUBLISHER> Payel Yayınları </PUBLISHER>
+    <ISBN> 9753880952 </ISBN>
+    <PRICE> 25, 00 </PRICE>
+    <YEAR> 2006 </YEAR>
+    <URL> https://www.kitapyurdu.com/kitap/analitik-psikoloji/20570.html&manufacturer_id=5367
+</URL>
+    </BOOK>
+<BOOK>
+    <TITLE> Annem ve Hayatın Anlamı </TITLE>
+    <AUTHOR> Irvin D. Yalom </AUTHOR>
+    <PUBLISHER> Pegasus Yayınları </PUBLISHER>
+    <ISBN> 6052994511 </ISBN>
+    <PRICE> 23, 64 </PRICE
+    <YEAR> 2018 </YEAR>
+    <URL> https://www.kitapyurdu.com/kitap/annem-ve-hayatin-anlami/485337.html
+ </URL>
+ </BOOK>
+<BOOK>
+    <TITLE> Şeker Portakalı </TITLE>
+    <AUTHOR> Jose Mauro De Vasconcelos </AUTHOR>
+    <PUBLISHER> Can Yayınları </PUBLISHER>
+    <ISBN> 9750738609 </ISBN>
+    <PRICE> 11, 22</PRICE>
+
+    <YEAR> 2019 </YEAR>
+    <URL> https://www.kitapyurdu.com/kitap/seker-portakali-ciltsiz/10139.html </URL>
+ </BOOK>
+</CATALOG>
